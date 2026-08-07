@@ -84,7 +84,7 @@ vidrock:https://vidrock.ru
 vidsrc:https://api.themoviedb.org/3
 watch32:https://watch32.sx
 wcoflix:https://www.wcoforever.net
-webteizle:https://webteizle3.xyz
+webteizle:https://webteizle.info
 wfilmizle:https://www.wfilmizle.pw
 yabancidizi:https://yabancidizi.news
 yabancidizicafe:https://yabancidizi.cafe
