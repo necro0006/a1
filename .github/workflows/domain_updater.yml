@@ -2,11 +2,11 @@ name: Auto Domain Updater
 
 on:
   schedule:
-    - cron: '0 */12 * * *' # Run every 12 hours
-  workflow_dispatch:      # Allow manual trigger from GitHub UI
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
 
 permissions:
-  contents: write         # Required to push changes back to repository
+  contents: write
 
 jobs:
   update-domains:
@@ -24,19 +24,13 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install nodriver
+        pip install cloudscraper
 
-    - name: Diagnose Chrome
-      run: |
-        which google-chrome || true
-        google-chrome --version || true
-        google-chrome --headless --no-sandbox --disable-gpu --disable-dev-shm-usage --dump-dom https://www.google.com | head -n 5 || true
-
-    - name: Run Address Updater
+    - name: Run Domain Updater
       env:
         PYTHONUNBUFFERED: "1"
       run: |
-        xvfb-run python github_domain_updater.py
+        python github_domain_updater.py
 
     - name: Commit and Push changes
       run: |
@@ -45,7 +39,6 @@ jobs:
         
         git add domain.txt
         
-        # Check if there are changes to commit
         if git diff --cached --quiet; then
           echo "No changes detected."
         else
