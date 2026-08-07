@@ -28,7 +28,7 @@ jobs:
 
     - name: Run Address Updater
       run: |
-        python github_domain_updater.py
+        xvfb-run python github_domain_updater.py
 
     - name: Commit and Push changes
       run: |
