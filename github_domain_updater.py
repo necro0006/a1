@@ -166,13 +166,22 @@ async def fetch_page(browser, target: str, wait_seconds: float = 5.5) -> PageRes
     if not requested:
         raise ValueError("invalid target url")
 
-    page = await browser.get(requested)
-    await asyncio.sleep(wait_seconds)
+    try:
+        page = await asyncio.wait_for(browser.get(requested), timeout=20.0)
+    except asyncio.TimeoutError:
+        raise ValueError("page load timed out")
+    except Exception as e:
+        raise ValueError(f"failed to load page: {e}")
+
+    try:
+        await asyncio.sleep(wait_seconds)
+    except Exception:
+        pass
 
     final_url = page.target.url.rstrip("/")
     body = ""
     try:
-        body = await page.get_content()
+        body = await asyncio.wait_for(page.get_content(), timeout=8.0)
     except Exception:
         body = ""
 
