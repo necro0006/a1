@@ -181,7 +181,7 @@ async def fetch_page(browser, target: str, wait_seconds: float = 5.5) -> PageRes
     final_url = page.target.url.rstrip("/")
     body = ""
     try:
-        body = await asyncio.wait_for(page.get_content(), timeout=8.0)
+        body = await asyncio.wait_for(page.get_content(), timeout=9.0)
     except Exception:
         body = ""
 
@@ -561,12 +561,13 @@ async def main() -> None:
 
     try:
         for key, url in domains.items():
+            print(f"[{key}] Checking {url} ... ", end="", flush=True)
             result = await resolve_provider(browser, key, url)
             results.append(result)
             write_report(results)
 
             message = result.reason or result.resolved or result.current
-            print(f"[{key}] {result.status}: {message}")
+            print(f"{result.status} -> {message}", flush=True)
 
             if result.status in ("updated", "unchanged"):
                 resolved_val = result.resolved if result.resolved else result.current
