@@ -26,6 +26,12 @@ jobs:
         python -m pip install --upgrade pip
         pip install nodriver
 
+    - name: Diagnose Chrome
+      run: |
+        which google-chrome || true
+        google-chrome --version || true
+        google-chrome --headless --no-sandbox --disable-gpu --disable-dev-shm-usage --dump-dom https://www.google.com | head -n 5 || true
+
     - name: Run Address Updater
       run: |
         xvfb-run python github_domain_updater.py
