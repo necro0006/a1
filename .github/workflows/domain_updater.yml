@@ -33,6 +33,8 @@ jobs:
         google-chrome --headless --no-sandbox --disable-gpu --disable-dev-shm-usage --dump-dom https://www.google.com | head -n 5 || true
 
     - name: Run Address Updater
+      env:
+        PYTHONUNBUFFERED: "1"
       run: |
         xvfb-run python github_domain_updater.py
 
