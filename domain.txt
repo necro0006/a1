@@ -1,4 +1,3 @@
-4kfilmizlesene:https://www.4kfilmizlesene.us
 animecix:https://animecix.tv
 animeler:https://animeler.top
 animely:https://animecix.tv
@@ -7,8 +6,6 @@ asyamodu:https://asyamodu.com
 asyawatch:https://asyawatch.com
 belgeselx:https://belgeselx.com
 bflix:https://bflix.sh
-bingebox:https://media-proxy.vynx-3b3.workers.dev
-canlitv:https://raw.githubusercontent.com/feroxx/test/refs/heads/main/Kanallar/canlitv.m3u
 canlitv_direct:https://web.canlitv.direct
 cinemacity:https://cinemacity.cc
 cizgimax:https://cizgimax.online
@@ -17,7 +14,6 @@ dizi58:https://dizi73.life
 dizibox:https://www.dizibox.live
 dizibull:https://dizibull39.com
 dizifilm:https://dizifilmizle.to
-dizify:https://dizify.org
 dizikorea:https://dizikorea3.com
 dizilla:https://dizillahd.com
 dizimag:https://dizimag.onl
@@ -25,9 +21,9 @@ dizimia:https://dizimia.live
 dizimom2:https://www.dizimom.rest
 dizimore:https://dizimore.net
 dizipalgercek:https://dizipal.bid
-dizipalorjinal:https://dizipal1573.com
+dizipalorjinal:https://dizipal1574.com
 dizipalorjinal2:https://dizipal2108.com
-dizipalyedek:https://dizipal2212.com
+dizipalyedek:https://dizipal2213.com
 dizipod:https://dizipod.com
 dizirella:https://dizirella.net
 dizirex:https://dizirex.com
@@ -79,11 +75,8 @@ turkish123:https://ahs.turkish123.com
 tvdiziler:https://tvdiziler.tv
 ugurfilm:https://ugurfilm3.xyz
 ultimate:https://api.themoviedb.org/3
-vidlink:https://vidlink.pro
-vidrock:https://vidrock.ru
 vidsrc:https://api.themoviedb.org/3
 watch32:https://watch32.sx
-wcoflix:https://www.wcoforever.net
 webteizle:https://webteizle3.xyz
 wfilmizle:https://www.wfilmizle.pw
 yabancidizi:https://yabancidizi.news
