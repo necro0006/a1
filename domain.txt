@@ -52,7 +52,7 @@ havenflix:https://havenflix.com
 hddizipal:https://dizipal.art
 hdfilmcehennemi:https://www.hdfilmcehennemi.nl
 hdfilmizle_life:https://www.hdfilmizle.vip
-hdfilmizle_to:https://www.hdfilmizle.to
+hdfilmizle_to:https://www.hdfilmizle.vip
 hdnetflix:https://fulhdfilmizle.pro
 imdb:https://api.themoviedb.org/3
 inatbox:https://diziboxen.help
