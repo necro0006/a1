@@ -535,7 +535,7 @@ async def main() -> None:
         print("No domains found in domain.txt.")
         return
 
-    browser = await uc.start(no_sandbox=True)
+    browser = await uc.start(headless=True, no_sandbox=True)
     results: list[CheckResult] = []
     domains_updated = 0
 
