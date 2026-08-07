@@ -535,8 +535,16 @@ async def main() -> None:
         print("No domains found in domain.txt.")
         return
 
+    chrome_path = None
+    if sys.platform != "win32":
+        for path in ("/usr/bin/google-chrome", "/usr/bin/chromium-browser", "/usr/bin/chromium"):
+            if os.path.exists(path):
+                chrome_path = path
+                break
+
     browser = await uc.start(
         headless=True,
+        browser_executable_path=chrome_path,
         browser_args=["--no-sandbox", "--disable-dev-shm-usage"]
     )
     results: list[CheckResult] = []
