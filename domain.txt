@@ -33,6 +33,7 @@ dizirella:https://dizirella.net
 dizirex:https://dizirex.com
 diziroll:https://diziroll.club
 diziscripti:https://v8.diziscripti.com
+dizisol:https://dizisol.com
 dizist:https://dizist.live
 diziwatch:https://diziwatch.ac
 diziyo:https://www.diziyo.so
@@ -43,11 +44,12 @@ filmbip:https://filmbip.com
 filmcenneti:https://filmlerizle.co
 filmdizionline:https://filmdizionline12.com
 filmekseni:https://filmekseni.vip
+filmizlech:https://filmizlech.com
 filmizletv:https://filmizletv.to
 filmmakinesi:https://filmmakinesi.to
 filmmodu:https://www.filmmodu.one
 fullhdfilm:https://hdfilm.us/
-fullhdfilmizlesene:https://www.fullhdfilmizlesene.life
+fullhdfilmizlesene:https://www.fullhdfilmizlesene.mx
 havenflix:https://havenflix.com
 hddizipal:https://dizipal.art
 hdfilmcehennemi:https://www.hdfilmcehennemi.nl
@@ -62,6 +64,7 @@ liderfilmizle:https://liderfilmizle.com
 mahsundizi:https://mahsundizi6.com
 moviesjoy:https://moviesjoy.is
 myflixer:https://myflixerz.to
+openanime:https://openani.me
 rectv:https://a.prectv70.lol
 roketdizi:https://roketdizi.life
 selcukflix:https://selcukflix.co
@@ -70,7 +73,7 @@ sezonlukdizi:https://sezonlukdizi.cc
 sflix:https://sflix.ps
 sinefy:https://sinefy3.com
 sinemacx:https://www.sinema.gg
-sinemaizle:https://sinemaizle.net
+sinemaizle:https://sinemaizle.org
 sinezy:https://sinezy.to
 supercartoons:https://www.supercartoons.net
 tlc:https://www.tlctv.com.tr
