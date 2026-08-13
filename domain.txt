@@ -52,7 +52,7 @@ filmmodu:https://www.filmmodu.one
 fullhdfilm:https://hdfilm.us/
 fullhdfilmizlesene:https://www.fullhdfilmizlesene.mx
 havenflix:https://havenflix.com
-hddizipal:https://dizipal.art
+hddizipal:https://dizipal1.art
 hdfilmcehennemi:https://www.hdfilmcehennemi.nl
 hdfilmizle_life:https://www.hdfilmizle.vip
 hdfilmizle_to:https://www.hdfilmizle.vip
