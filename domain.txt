@@ -23,7 +23,7 @@ dizilab:https://dizilab.to
 dizilla:https://dizilla.now
 dizimag:https://dizimag.life
 dizimia:https://dizimia.live
-dizimom2:https://www.dizimom.surf
+dizimom2:https://www.dizimom.work
 dizimore:https://dizimore.net
 dizipalgercek:https://dizipal.bid
 dizipalorjinal:https://dizipal1577.com
@@ -85,6 +85,6 @@ webteizle:https://webteizle3.xyz
 wfilmizle:https://www.wfilmizle.pw
 yabancidizi:https://yabancidizi.news
 yabancidizicafe:https://yabancidizi.cafe
-yabancidizila:https://yabancidizi.my
+yabancidizila:https://yabanci-dizi.now
 yabancidizilertv:https://www.dizizon.com
 yesilcamtv:https://yesilcamtv.com.tr
