@@ -10,7 +10,7 @@ belgeselx:https://belgeselx.com
 canlitv_direct:https://web.canlitv.direct
 cizgimax:https://cizgimax.online
 cizgivedizi:https://cizgivedizi.com
-dizi58:https://dizi73.life
+dizi58:https://dizi74.life
 dizibal:https://dizibal.com
 dizibox:https://www.dizibox.live
 dizibull:https://dizibull39.com
@@ -23,12 +23,12 @@ dizilab:https://dizilab.to
 dizilla:https://dizilla.now
 dizimag:https://dizimag.life
 dizimia:https://dizimia.live
-dizimom2:https://www.dizimom.work
+dizimom2:https://www.dizimom.food
 dizimore:https://dizimore.net
 dizipalgercek:https://dizipal.bid
-dizipalorjinal:https://dizipal1577.com
-dizipalorjinal2:https://dizipal2118.com
-dizipalyedek:https://dizipal2218.com
+dizipalorjinal:https://dizipal1578.com
+dizipalorjinal2:https://dizipal2121.com
+dizipalyedek:https://dizipal2219.com
 dizipod:https://dizipod.com
 dizirella:https://dizirella.net
 dizirex:https://dizirex.com
@@ -42,7 +42,7 @@ diziyou:https://www.diziyou.one
 dmax:https://www.dmax.com.tr
 dramaizle:https://dramaflix.net
 filmbip:https://filmbip.com
-filmcenneti:https://birfilmizle.com
+filmcenneti:https://pcfilmizle.com
 filmdizionline:https://filmdizionline12.com
 filmekseni:https://filmekseni.vip
 filmizlech:https://filmizlech.org
@@ -52,7 +52,7 @@ filmmodu:https://www.filmmodu.one
 fullhdfilm:https://hdfilm.us/
 fullhdfilmizlesene:https://www.fullhdfilmizlesene.mx
 havenflix:https://havenflix.com
-hddizipal:https://dizipal1.art
+hddizipal:https://dizipal127.com
 hdfilmcehennemi:https://www.hdfilmcehennemi.nl
 hdfilmizle_life:https://www.hdfilmizle.vip
 hdfilmizle_to:https://www.hdfilmizle.vip
