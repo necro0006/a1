@@ -11,12 +11,12 @@ canlitv_direct:https://web.canlitv.direct
 cizgimax:https://cizgimax.online
 cizgivedizi:https://cizgivedizi.com
 dizi58:https://dizi74.life
-dizibal:https://dizibal.com
+dizibal:https://dizibal.org
 dizibox:https://www.dizibox.live
 dizibull:https://dizibull39.com
 dizifilm:https://dizifilmizle.to
 dizify:https://dizify.org
-dizigom:https://dizigom.top
+dizigom:https://dizigom.online
 dizihol:https://dizihol2.com
 dizikorea:https://dizikorea3.com
 dizilab:https://dizilab.to
