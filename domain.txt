@@ -26,7 +26,7 @@ dizimia:https://dizimia.live
 dizimom2:https://www.dizimom.diy
 dizimore:https://dizimore.net
 dizipalgercek:https://dizipal.bid
-dizipalorjinal:https://dizipal1578.com
+dizipalorjinal:https://dizipal1579.com
 dizipalorjinal2:https://dizipal2123.com
 dizipalyedek:https://dizipal2219.com
 dizipod:https://dizipod.com
@@ -60,12 +60,12 @@ imdb:https://api.themoviedb.org/3
 inatbox:https://diziboxen.help
 jetfilmizle:https://jetfilmizle.now
 kultfilmler:https://kultfilmler.net
-liderfilmizle:https://liderfilmizle.com
+liderfilmizle:https://www.liderfilmizle.vip
 mahsundizi:https://mahsundizi8.com
 openanime:https://openani.me
 rectv:https://a.prectv70.lol
 roketdizi:https://roketdizi.life
-selcukflix:https://selcukflix.co
+selcukflix:https://selcukflix.com
 setfilmizle:https://www.setfilmizle.ltd
 sezonlukdizi:https://sezonlukdizi.cc
 sinefy:https://sinefy3.com
