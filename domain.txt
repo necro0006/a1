@@ -25,9 +25,9 @@ dizimag:https://dizimag.life
 dizimia:https://dizimia.live
 dizimom2:https://www.dizimom.diy
 dizimore:https://dizimore.net
-dizipalgercek:https://dizipal.bid
+dizipalgercek:https://dizipal3008.com
 dizipalorjinal:https://dizipal1579.com
-dizipalorjinal2:https://dizipal2126.com
+dizipalorjinal2:https://dizipal2127.com
 dizipalyedek:https://dizipal2220.com
 dizipod:https://dizipod.com
 dizirella:https://dizirella.net
@@ -81,7 +81,7 @@ ugurfilm:https://ugurfilm3.xyz
 ultimate:https://api.themoviedb.org/3
 vidsrc:https://api.themoviedb.org/3
 wcoflix:https://www.wcoforever.net
-webteizle:https://webteizle3.xyz
+webteizle:https://webteizle.info
 wfilmizle:https://www.wfilmizle.pw
 yabancidizi:https://yabancidizi.news
 yabancidizicafe:https://yabancidizi.cafe
