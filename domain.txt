@@ -26,7 +26,7 @@ dizimia:https://dizimia.live
 dizimom2:https://www.dizimom.diy
 dizimore:https://dizimore.net
 dizipalgercek:https://dizipal3008.com
-dizipalorjinal:https://dizipal1579.com
+dizipalorjinal:https://dizipal1580.com
 dizipalorjinal2:https://dizipal2130.com
 dizipalyedek:https://dizipal2220.com
 dizipod:https://dizipod.com
@@ -50,7 +50,7 @@ filmizletv:https://filmizletv.to
 filmmakinesi:https://filmmakinesi.to
 filmmodu:https://www.filmmodu.one
 fullhdfilm:https://hdfilm.us/
-fullhdfilmizlesene:https://www.fullhdfilmizlesene.mx
+fullhdfilmizlesene:https://www.fullhdfilmizlesene.now
 havenflix:https://havenflix.com
 hddizipal:https://dizipal127.com
 hdfilmcehennemi:https://www.hdfilmcehennemi.nl
