@@ -1,13 +1,7 @@
-4kfilmizlesene:https://www.4kfilmizlesene.us
 abukzubuk:https://abukzubuk3.vip
-animecix:https://animecix.tv
 animeler:https://animeler.top
-animely:https://animecix.tv
-asyafanatiklerim:https://asyafanatiklerim.com
-asyamodu:https://asyamodu.com
 asyawatch:https://asyawatch.com
 belgeselx:https://belgeselx.com
-canlitv_direct:https://web.canlitv.direct
 cizgimax:https://cizgimax.online
 cizgivedizi:https://cizgivedizi.com
 dizi58:https://dizi74.life
@@ -54,8 +48,8 @@ fullhdfilmizlesene:https://www.fullhdfilmizlesene.now
 havenflix:https://havenflix.com
 hddizipal:https://dizipal10.com.tr
 hdfilmcehennemi:https://www.hdfilmcehennemi.nl
-hdfilmizle_life:https://www.hdfilmizle.vip
-hdfilmizle_to:https://www.hdfilmizle.vip
+hdfilmizle_life:https://www.hdfilmizle.live
+hdfilmizle_to:https://www.hdfilmizle.live
 imdb:https://api.themoviedb.org/3
 inatbox:https://diziboxen.help
 jetfilmizle:https://jetfilmizle.now
