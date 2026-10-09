@@ -22,7 +22,7 @@ dizimom2:https://www.dizimom.wiki
 dizimore:https://dizimore.net
 dizipalgercek:https://dizipal3008.com
 dizipalorjinal:https://dizipal1587.com
-dizipalorjinal2:https://dizipal2136.com
+dizipalorjinal2:https://dizipal2137.com
 dizipalyedek:https://dizipal2224.com
 dizipod:https://dizipod.com
 dizirella:https://dizirella.net
@@ -61,13 +61,13 @@ mahsundizi:https://mahsundizi9.com
 openanime:https://openani.me
 rectv:https://a.prectv70.lol
 roketdizi:https://roketdizi.life
-selcukflix:https://selcukflix.com
+selcukflix:https://selcukflix.app
 setfilmizle:https://www.setfilmizle.ltd
 sezonlukdizi:https://sezonlukdizi.cc
 sinefy:https://sinefy3.com
 sinemacx:https://sinemacc.com
 sinemaizle:https://sinemaizle.org
-sinezy:https://sinezy.to
+sinezy:https://sinezy.si
 supercartoons:https://www.supercartoons.net
 telifbox:https://ddizipal.com
 tlc:https://www.tlctv.com.tr
