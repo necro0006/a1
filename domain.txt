@@ -4,7 +4,7 @@ asyawatch:https://asyawatch.com
 belgeselx:https://belgeselx.com
 cizgimax:https://cizgimax.online
 cizgivedizi:https://cizgivedizi.net
-dizi58:https://dizi79.life
+dizi58:https://dizi80.life
 dizibak:https://dizibak.net
 dizibal:https://dizibal.org
 dizibox:https://www.dizibox.live
@@ -21,11 +21,11 @@ dizimia:https://dizimia.live
 dizimom2:https://www.dizidad.com
 dizimore:https://dizimore.net
 dizipalgercek:https://dizipal3008.com
-dizipalorjinal:https://dizipal1590.com
-dizipalorjinal2:https://dizipal2140.com
-dizipalyedek:https://dizipal1820.com
+dizipalorjinal:https://dizipal1591.com
+dizipalorjinal2:https://dizipal2141.com
+dizipalyedek:https://dizipal1821.com
 dizipod:https://dizipod.com
-dizirella:https://dizirella.net
+dizirella:https://dizirella.one
 dizirex:https://dizirex.com
 diziroll:https://diziroll.club
 diziscripti:https://v8.diziscripti.com
