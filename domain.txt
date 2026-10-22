@@ -4,7 +4,7 @@ asyawatch:https://asyawatch.com
 belgeselx:https://belgeselx.com
 cizgimax:https://cizgimax.online
 cizgivedizi:https://cizgivedizi.net
-dizi58:https://dizi80.life
+dizi58:https://dizi81.life
 dizibak:https://dizibak.net
 dizibal:https://dizibal.org
 dizibox:https://www.dizibox.live
@@ -23,7 +23,7 @@ dizimore:https://dizimore.net
 dizipalgercek:https://dizipal3008.com
 dizipalorjinal:https://dizipal1591.com
 dizipalorjinal2:https://dizipal2142.com
-dizipalyedek:https://dizipal1821.com
+dizipalyedek:https://dizipal1822.com
 dizipod:https://dizipod.com
 dizirella:https://dizirella.one
 dizirex:https://dizirex.com
@@ -47,7 +47,7 @@ filmmodu:https://www.filmmodu.one
 fullhdfilm:https://hdfilm.us/
 fullhdfilmizlesene:https://www.fullhdfilmizlesene.now
 havenflix:https://havenflix.com
-hddizipal:https://dizipal10.com.tr
+hddizipal:https://dizipal12.com.tr
 hdfilmcehennemi:https://www.hdfilmcehennemi.nl
 hdfilmcehennemi2:https://www.hdfilmcehennemi2.biz
 hdfilmizle_life:https://www.hdfilmizle.live
