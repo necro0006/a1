@@ -22,8 +22,8 @@ dizimom2:https://www.dizidad.com
 dizimore:https://dizimore.net
 dizipalgercek:https://dizipal3008.com
 dizipalorjinal:https://dizipal1592.com
-dizipalorjinal2:https://dizipal2143.com
-dizipalyedek:https://dizipal1822.com
+dizipalorjinal2:https://dizipal2145.com
+dizipalyedek:https://dizipal1823.com
 dizipod:https://dizipod.com
 dizirella:https://dizirella.one
 dizirex:https://dizirex.com
@@ -78,9 +78,9 @@ ultimate:https://api.themoviedb.org/3
 vidsrc:https://api.themoviedb.org/3
 wcoflix:https://www.wcoforever.net
 webteizle:https://webteizle.info
-wfilmizle:https://www.wfilmizle.pw
+wfilmizle:https://findonlineresults.com
 yabancidizi:https://yabancidizi.news
 yabancidizicafe:https://yabancidizi.cafe
-yabancidizila:https://yabanci-dizi.now
+yabancidizila:https://yabancidizi.watch
 yabancidizilertv:https://www.dizizon.com
 yesilcamtv:https://yesilcamtv.com.tr
