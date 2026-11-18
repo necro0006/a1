@@ -32,7 +32,7 @@ filmmodu:https://www.filmmodu.one
 fullhdfilm:https://hdfilm.us/
 fullhdfilmizlesene:https://www.fullhdfilmizlesene.now
 havenflix:https://havenflix.com
-hddizipal:https://dizipal.rest
+hddizipal:https://dizipal1.rest
 hdfilmcehennemi:https://www.hdfilmcehennemi.nl
 hdfilmcehennemi2:https://www.hdfilmcehennemi2.biz
 hdfilmizle_life:https://www.hdfilmizle.live
@@ -40,7 +40,7 @@ hdfilmizle_to:https://www.hdfilmizle.live
 imdb:https://api.themoviedb.org/3
 jetfilmizle:https://jetfilmizle.app
 kultfilmler:https://kultfilmler.net
-liderfilmizle:https://liderfilmizle.vip
+liderfilmizle:https://liderfilmizle.nl
 mahsundizi:https://mahsundizi9.com
 openanime:https://openani.me
 roketdizi:https://roketdizi.life
